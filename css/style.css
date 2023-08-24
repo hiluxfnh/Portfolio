@@ -1,0 +1,108 @@
+    
+    body{
+    background-color: #9fc4ca60;
+    /* background-color: rgb(75, 69, 69);  */
+    color: rgb(47, 44, 44);
+    font-family: sans-serif;
+    }
+    .profPic{
+        /* Making it round with colorful border  */
+        border-radius: 5px;
+        border: 5px solid #fff;
+        margin: 0 auto;
+        display: block;
+    }
+    .profPic:hover{
+        border: 5px solid #6778fd;
+        transition:.9s ease all ;
+        /* Using Transform to add beauty */
+        transform: scale(1.02);
+    }
+    h1 {
+        font-size: 2em;
+        margin-top: 0;
+      }
+      
+      p {
+        margin-top: 0;
+        margin-bottom: 1em;
+        text-align: justify;
+      }
+      
+      a {
+        color: #818ffb;
+        text-decoration: none;
+        font-weight: bold;
+      }
+      
+      a:hover {
+        /* color: #efeeee; */
+        color: #818ffb;
+        text-decoration: underline;
+      }
+      .btnSpace{
+        margin-top: 10px;
+        margin-bottom: 10px;
+      }
+      .title{
+        border: #6778fd 2px solid;
+        border-radius: 10px;
+        padding: 5px;
+        width: fit-content;
+        color: #6778fd;
+      }
+      .title:hover{
+        color: #818ffb;
+        border: #ffffff 2px solid;
+        transition: 0.5s ease all ;
+        transform: scale(1.05);
+      }
+    .custom-container {
+        padding-left: 40px; 
+        padding-right: 40px; 
+    }
+    .projectDesc{
+        color: black;
+    }
+    .projectCard{
+        padding-top: 2px;
+        padding-bottom: 5px;
+    }
+    .proCard{
+        padding-top: 2px;
+        padding-bottom: 5px;
+        height: 50%;
+    }
+    .CertCard{
+        padding-top: 2px;
+        padding-bottom: 5px;
+    }
+    .CertCard,.projectCard img{
+        height: 100%;
+        width: 100%;
+        object-fit: cover;
+        border-radius: 5px;
+    }
+    .CertCard:hover{
+        transform: scale(1.05);
+        /* Bring x axis to the top */
+        z-index: 1;
+        /* Blur the rest of the page */
+        /* filter: blur(2px); */
+    }
+    .degreeName{
+        color: #6778fd;
+    }
+    /* put all <h3> under class .degreeName as white indegree */
+    .degreeName h3{
+        color: white;
+    }
+    .DetailsPara{
+        color:rgb(160, 157, 157);
+    }
+    .nav-link:hover{
+        transition: 0.3s ease all ;
+        transform: scale(1.01);
+    }
+   
+    
