@@ -5,7 +5,7 @@
 
 Welcome to my portfolio! This is a showcase of my work, projects, skills, and achievements as a passionate advocate for change, technology enthusiast, and aspiring leader. The portfolio provides insights into my journey, experience, and the impact I've made in various fields.
 
-**Visit the Portfolio:** [https://www.hiluxfokou.me](www.hiluxfokou.me)
+**Visit the Portfolio:** [https://www.hiluxfokou.me](hiluxfokou.me)
 
 ## Table of Contents
 
