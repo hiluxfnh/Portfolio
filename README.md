@@ -5,18 +5,18 @@
 
 Welcome to my portfolio! This is a showcase of my work, projects, skills, and achievements as a passionate advocate for change, technology enthusiast, and aspiring leader. The portfolio provides insights into my journey, experience, and the impact I've made in various fields.
 
-**Visit the Portfolio:** [www.hiluxfokou.me](www.hiluxfokou.me)
+**Visit the Portfolio:** [www.hiluxfokou.me](https://hiluxfokou.me/)
 
 ## Table of Contents
 
 - [About Me](https://hiluxfokou.me/#aboutme)
 - [Projects](https://hiluxfokou.me/#projects)
-- [Education](http://127.0.0.1:5500/index.html#education)
+- [Education](https://hiluxfokou.me/#education)
 - [Experience](https://hiluxfokou.me/#experience)
 - [Badges](https://hiluxfokou.me/#certificates)
 - [Skills](https://hiluxfokou.me/)
 - [Licenses & Certifications](https://hiluxfokou.me/#certificates)
-- [Contact](http://127.0.0.1:5500/index.html#contact)
+- [Contact](https://hiluxfokou.me/#contact)
 
 ## About Me
 
